@@ -30,5 +30,5 @@ When you can connect four pieces vertically, horizontally or diagonally you win 
 ### 点这里进入游戏吧！
 
 
-[开始游戏！！](https://yuc434.github.io/connect-four/test.html)
+[开始游戏！！](yuc434.github.io/connect-four/test.html)
 
