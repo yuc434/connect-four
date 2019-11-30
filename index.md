@@ -30,7 +30,7 @@ When you can connect four pieces vertically, horizontally or diagonally you win 
 ### 点这里进入游戏吧！
 
 
-[开始游戏！！](https://yuc434.github.com/connect-four/test.html).
+[开始游戏！！](https://github.com/yuc434/connect-four/test.html).
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
