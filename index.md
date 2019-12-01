@@ -28,7 +28,7 @@ When you can connect four pieces vertically, horizontally or diagonally you win 
 横着·竖着·或者斜着连成四个 ———— 当当当当你赢啦～！
 
 ### 点这里进入游戏吧！
-[Click here to start!](http://yuc434.github.io/connect-four/test2.html)
+[Click here to start!](http://yuc434.github.io/connect-four/test.html)
 
 
 
