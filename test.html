@@ -376,7 +376,7 @@
 
     			if(add_move_board(index1, player)){
 
-    				if(check_winning(index1) == player){
+    				if(check_winning(index1) != 0){
     					delete_move_board(index1);
     					return index1;
     				}
